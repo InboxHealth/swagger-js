@@ -24,7 +24,7 @@
     "node": ">= 0.6.6"
   },
   "dependencies": {
-    "shred": "0.8.10",
+    "shred": "git+https://github.com/InboxHealth/shred.git#0.8.10-loosened-cookie-lookups",
     "btoa": "1.1.1"
   },
   "devDependencies": {
